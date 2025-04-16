@@ -40,15 +40,7 @@
   "accountStatus": "Target"
 }
 
-#📸 Screenshot
-![Screenshot 2025-04-16 100341](https://github.com/user-attachments/assets/fa7efd88-d54c-47f4-9aa1-0a42910efba2)
 
-
-#🛠 Built With
- HTML
- CSS
- JavaScript (ES6)
- Chrome Extension API
 
 
 
