@@ -41,13 +41,14 @@
 }
 
 #📸 Screenshot
-![image](https://github.com/user-attachments/assets/55576cf0-0fd0-46dd-9104-eef9bd3833e5)
+![Screenshot 2025-04-16 100341](https://github.com/user-attachments/assets/fa7efd88-d54c-47f4-9aa1-0a42910efba2)
+
 
 #🛠 Built With
-HTML
-CSS
-JavaScript (ES6)
-Chrome Extension API
+ HTML
+ CSS
+ JavaScript (ES6)
+ Chrome Extension API
 
 
 
